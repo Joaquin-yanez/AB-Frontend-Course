@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Best practices project for Alliance Block
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is part of the React Frontend Course.
 
 ## Available Scripts
 
